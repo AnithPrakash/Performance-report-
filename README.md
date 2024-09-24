@@ -8,9 +8,9 @@ business performance evaluations
 
 # The Power bi dashboard 
 
-![Screenshot 2024-09-24 192735](https://github.com/user-attachments/assets/f3e231b1-44e5-4712-8532-409c53de7708)
-![Screenshot 2024-09-24 192727](https://github.com/user-attachments/assets/e0ced77d-62ee-40fd-b48e-3f80695b57b6)
-![Screenshot 2024-09-24 192719](https://github.com/user-attachments/assets/83d7c108-276f-4d4a-b7b4-4d5baa5e5282)
+![Screenshot 2024-09-24 192735](https://github.com/user-attachments/assets/8e421559-f3f4-45a4-a816-198231a48cc9)
+![Screenshot 2024-09-24 192727](https://github.com/user-attachments/assets/b78a9034-82d0-4cb6-9b5e-867d6b2331af)
+![Screenshot 2024-09-24 192719](https://github.com/user-attachments/assets/2e8805d1-56be-4dbf-abe0-1a29dbd5327c)
 
 This file provides a detailed breakdown of yearly sales performance, including insights into regions with lower sales figures and corresponding product quantities. It allows for an in-depth analysis of sales trends over time, with a focus on key metrics such as sales revenue, quantity sold, and gross profit. Additionally, the dataset includes quarterly sales expansion data to track seasonal fluctuations and business performance.
 
